@@ -16,18 +16,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Key Performance Indicators](#key-performance-indicators-analyzed)
-- [Major Findings](#major-findings)
-- [Key Insights](#key-insights)
-- [Strategic Recommendations](#strategic-recommendations)
-- [Methodology](#methodology)
-- [Team](#team)
-
----
-
 ## 🎯 About The Project
 
 This repository showcases our final project for the **Storytelling with Data** course at HAN University of Applied Sciences, which earned a **grade of 8.3**. 
