@@ -15,6 +15,21 @@
 </div>
 
 ---
+## 🏆 Project Highlights
+
+### ☕ Bean There Done That Analysis
+- **Grade:** 8.3
+- **Focus:** Operational efficiency & KPI development
+- **Outcome:** Identified 74% growth potential through coordination improvements
+- [View PDF](Bean%20there%20Done%20that-compressed.pdf)
+
+### 📊 PLANCO IMAH Power BI Dashboard
+- **Grade:** 10
+- **Focus:** Interactive business intelligence dashboard
+- **Team:** Sam Joziasse & Laura Fitters
+- [Download Dashboard (.pbix)](https://github.com/SameliaJ/storytelling-with-data/blob/main/PLANCO_IMAH_Sam_Joziasse_Laura_Fitters.pbix)
+
+> 💡 **Note:** Power BI files require [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open
 
 ## 🎯 About The Project
 
