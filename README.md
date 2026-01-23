@@ -10,7 +10,7 @@
 
 **Scaling through efficiency: How Bean There Done That turned stability into readiness for sustainable growth**
 
-([View PDF](Bean%20there%20Done%20that-compressed.pdf) • [Explore Data](bean_there_done_that.ipynb) • 
+[View PDF](Bean%20there%20Done%20that-compressed.pdf) • [Explore Data](bean_there_done_that.ipynb) • 
 
 </div>
 
